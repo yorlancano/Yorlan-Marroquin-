@@ -5,7 +5,7 @@
 
 <br></br>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 Full-stack developer passionate about building fast, accessible, and elegant web experiences. I have hands-on experience with HTML, CSS, JavaScript, Vue.js, Bootstrap, Java / Spring Boot, C# .NET / ASP.NET, and databases such as SQL Server and MySQL. I also work with data-warehouse concepts and follow best practices for data modeling and ETL.
 
 - 📫 How to reach me **ing.yorlanmarroquin@gmail.com**
 
